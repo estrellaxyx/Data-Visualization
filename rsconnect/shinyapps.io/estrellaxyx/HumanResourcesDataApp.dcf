@@ -1,0 +1,14 @@
+name: HumanResourcesDataApp
+title: HumanResourcesDataApp
+username:
+account: estrellaxyx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8039700
+bundleId: 6735495
+url: https://estrellaxyx.shinyapps.io/HumanResourcesDataApp/
+when: 1673780174.94408
+lastSyncTime: 1673780174.94409
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/.DS_Store

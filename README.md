@@ -7,6 +7,6 @@ Available in: https://estrellaxyx.shinyapps.io/HumanResourcesDataApp/
 
 Authors: 
 
-@ JingleiXu97
-
-@ DCY1117
+- [JingleiXu97](https://github.com/JingleiXu97)
+ 
+- [DCY1117](https://github.com/DCY1117)

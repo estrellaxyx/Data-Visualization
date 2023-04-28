@@ -3,3 +3,8 @@
 Human Resources Data App using Shiny
 
 Available in: https://estrellaxyx.shinyapps.io/HumanResourcesDataApp/
+
+
+Authors: 
+@JingleiXu97
+@DCY1117
